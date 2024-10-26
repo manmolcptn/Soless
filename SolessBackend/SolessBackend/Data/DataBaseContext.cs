@@ -9,7 +9,6 @@ namespace SolessBackend.Data
 
         public DbSet<User> Users { get; set; }
 
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string baseDir = AppDomain.CurrentDomain.BaseDirectory;

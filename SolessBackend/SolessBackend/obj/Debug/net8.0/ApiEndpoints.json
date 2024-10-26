@@ -1,7 +1,33 @@
 [
   {
+    "ContainingType": "SolessBackend.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SolessBackend.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "SolessBackend.Controllers.UserController",
-    "Method": "GetUsers",
+    "Method": "GetUsersAsync",
     "RelativePath": "api/User",
     "HttpMethod": "GET",
     "IsController": true,
@@ -27,7 +53,7 @@
   },
   {
     "ContainingType": "SolessBackend.Controllers.UserController",
-    "Method": "GetUser",
+    "Method": "GetUserAsync",
     "RelativePath": "api/User/{id}",
     "HttpMethod": "GET",
     "IsController": true,

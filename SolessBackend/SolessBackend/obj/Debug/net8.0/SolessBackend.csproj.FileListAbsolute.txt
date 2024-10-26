@@ -131,3 +131,11 @@ C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\S
 C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\obj\Debug\net8.0\SolessBackend.pdb
 C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\obj\Debug\net8.0\SolessBackend.genruntimeconfig.cache
 C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\obj\Debug\net8.0\ref\SolessBackend.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kylian\OneDrive\Documentos\webdev\DAW2\DesEnServidor\Cx\SolessBackend\SolessBackend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

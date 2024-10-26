@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\datamappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\datamappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|c:\\users\\kylian\\onedrive\\documentos\\webdev\\daw2\\desenservidor\\cx\\solessbackend\\solessbackend\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B12F1-7A5E-40FF-82EA-0DDD87165D32}|SolessBackend\\SolessBackend.csproj|solutionrelative:solessbackend\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SolessBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SolessBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:33:50.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "SolessBackend\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Models\\LoginModel.cs",
+              "RelativeToolTip": "SolessBackend\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:32:06.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\DataMappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "SolessBackend\\DataMappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\DataMappers\\UserMapper.cs",
+              "RelativeToolTip": "SolessBackend\\DataMappers\\UserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:29:25.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "SolessBackend\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "SolessBackend\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:28:12.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "SolessBackend\\Interfaces\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "SolessBackend\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T14:05:35.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "SolessBackend\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Controllers\\UserController.cs",
               "RelativeToolTip": "SolessBackend\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T10:17:23.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "SolessBackend\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "SolessBackend\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T10:04:43.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Program.cs",
               "RelativeDocumentMoniker": "SolessBackend\\Program.cs",
               "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Program.cs",
               "RelativeToolTip": "SolessBackend\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T08:28:37.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DataBaseContext.cs",
               "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Data\\DataBaseContext.cs",
               "RelativeDocumentMoniker": "SolessBackend\\Data\\DataBaseContext.cs",
               "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Data\\DataBaseContext.cs",
               "RelativeToolTip": "SolessBackend\\Data\\DataBaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:30:41.097Z"
+              "WhenOpened": "2024-10-25T08:30:41.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Models\\User.cs",
               "RelativeDocumentMoniker": "SolessBackend\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Kylian\\OneDrive\\Documentos\\webdev\\DAW2\\DesEnServidor\\Cx\\SolessBackend\\SolessBackend\\Models\\User.cs",
               "RelativeToolTip": "SolessBackend\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T08:29:41.035Z"
+              "WhenOpened": "2024-10-25T08:29:41.035Z",
+              "EditorCaption": ""
             }
           ]
         }

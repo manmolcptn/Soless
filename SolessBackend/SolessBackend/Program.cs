@@ -1,7 +1,10 @@
-
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.IdentityModel.Tokens;
 using SolessBackend.Data;
+using SolessBackend.DataMappers;
 using SolessBackend.Interfaces;
 using SolessBackend.Repositories;
+using System.Text;
 
 namespace SolessBackend
 {
@@ -18,11 +21,29 @@ namespace SolessBackend
             builder.Services.AddTransient<Seeder>();
 
             builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<UserMapper>();
 
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             builder.Services.AddScoped<DataBaseContext>();
+
+            builder.Services.AddAuthentication().AddJwtBearer(options =>
+            {
+                string key = Environment.GetEnvironmentVariable("JWT_KEY");
+
+                if (string.IsNullOrEmpty(key))
+                {
+                    throw new Exception("JWT_KEY variable de entorno no está configurada.");
+                }
+
+                options.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    ValidateIssuer = false,
+                    ValidateAudience = false,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key))
+                };
+            });
 
             var app = builder.Build();
 
@@ -54,8 +75,8 @@ namespace SolessBackend
 
             app.UseHttpsRedirection();
 
+            app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.MapControllers();
 

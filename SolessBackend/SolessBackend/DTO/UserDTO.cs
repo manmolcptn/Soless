@@ -1,14 +1,10 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace SolessBackend.Models
+﻿namespace SolessBackend.DTO
 {
-    public class User
+    public class UserDTO
     {
-        [Key]
         public long Id { get; set; }
         public string? Name { get; set; }
         public string? Email { get; set; }
-        public string? Password { get; set; }
         public string? Role { get; set; }
         public string? Address { get; set; }
     }
